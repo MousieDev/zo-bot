@@ -1,6 +1,6 @@
 {
     "bot_token": "token",
     "beta_bot_token": "token for beta bot",
-    "prefix": "zo",
+    "prefixes": ["zo","zaza"],
     "invite_url": "https://discord.com/oauth2/authorize?client_id=834723395132325918&scope=bot&permissions=3959934016"
 }
